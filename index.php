@@ -24,6 +24,8 @@
 
 //dialog
 
+//KUKUH TESTING
+
 if (!file_exists('./config.php')) {
     header('Location: install.php');
     die;
